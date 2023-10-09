@@ -1,4 +1,4 @@
-package com.enjamamulhoque.broadcastreceiverfeature;
+package com.enjamamulhoque.broadcastreceiver;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

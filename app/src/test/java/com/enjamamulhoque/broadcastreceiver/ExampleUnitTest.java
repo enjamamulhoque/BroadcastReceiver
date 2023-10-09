@@ -1,4 +1,4 @@
-package com.enjamamulhoque.broadcastreceiverfeature;
+package com.enjamamulhoque.broadcastreceiver;
 
 import org.junit.Test;
 
